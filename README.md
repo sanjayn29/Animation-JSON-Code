@@ -37,11 +37,17 @@ These animations can be integrated into many frameworks and platforms such as:
 - Web Applications
 
 ---
-## 👨‍💻 Author
+# 👨‍💻 Developer
 
-Sanjay N
- - Freelancer : https://sanjayn.me
- - Linkedin : https://www.linkedin.com/in/sanjayn29
- - GitHub: https://github.com/sanjayn29
+**Sanjay N**
+🚀 Freelancer  
 
+🌐 Portfolio: https://sanjayn.me  
+💼 LinkedIn: https://linkedin.com/in/sanjayn29  
+🐙 GitHub: https://github.com/sanjayn29  
 
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub** to support the development.
