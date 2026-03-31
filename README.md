@@ -40,6 +40,7 @@ These animations can be integrated into many frameworks and platforms such as:
 # 👨‍💻 Developer
 
 **Sanjay N**
+
 🚀 Freelancer  
 
 🌐 Portfolio: https://sanjayn.me  
