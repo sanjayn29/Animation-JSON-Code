@@ -40,9 +40,8 @@ These animations can be integrated into many frameworks and platforms such as:
 ## 👨‍💻 Author
 
 Sanjay N
-Freelancer 
-https://sanjayn.me
-https://www.linkedin.com/in/sanjayn29
-GitHub: https://github.com/sanjayn29
+ - Freelancer : https://sanjayn.me
+ - Linkedin : https://www.linkedin.com/in/sanjayn29
+ - GitHub: https://github.com/sanjayn29
 
 
